@@ -1,5 +1,5 @@
 
-export default function Partners() {
+export default function Partner() {
 
     return (
         <>
@@ -9,7 +9,7 @@ export default function Partners() {
       </div>
                 <h1 className="py-7 animateHeader text-4xl font-extrabold text-center text-white">
                     <i className="fal fa-stars text-amber-400 mr-2" />
-                    Partners
+                    Partner
                 </h1>
             </div>
 
@@ -23,7 +23,7 @@ export default function Partners() {
                                 <h1 className="leading-none text-3xl font-bold text-white">Code Share</h1>        
                                 <div className="flex items-center mt-1">
                                     <p className="font-normal font-sm">
-                                      Code Share, it offers an ideal platform for developers to share their projects, interact with other developers and sell their projects for money, exploring many projects in different categories and software languages.
+                                      Frewser Destek.
                                     </p>
                                 </div>     
                             </div>
